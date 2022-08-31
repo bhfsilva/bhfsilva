@@ -14,4 +14,8 @@ Nesse curso que me foi introduzida a programação, primeiro em <b>Shell Script<
   <img align="right" width="350" height"350" src="https://media.discordapp.net/attachments/1012493604599631875/1012802275187634246/javascript.png">
 </div>
 <h2 align="center">☎ Contatos</h2>
-<div align="center">🚧 README em construção 🚧</div>
+<div align="center">
+  <h3>🗂 Portfólio: <a href="https://bhs1lva.github.io/Portfolio/">Acesse aqui</a></h3>
+  <h3>📘 Linkedin: <a href="https://www.linkedin.com/in/bruno-henrique-902845203/">Acesse aqui</a></h3>
+  <h3>📫 E-mail: bh45237@gmail.com</h3>
+</div>
