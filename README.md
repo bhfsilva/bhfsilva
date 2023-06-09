@@ -5,14 +5,16 @@
 <h3>👤 Sobre mim</h3>
 <p>Tenho 19 anos. Sou formado no <b>Senai Jandira Prof. Vicente Amato</b> no curso <b>Técnico em Redes de Computadores</b>.
 Nesse curso que me foi introduzida a programação, primeiro em <b>Shell Script</b> e por fim em <b>Python</b>.</p>
-<p>Desde então fiquei decidido em seguir carreira na área e atualmente estou no 2º semestre para ser tecnólogo em <b>Análise e Desenvolvimento de Sistemas</b> pela faculdade <b>FIAP</b>.</p>
+<p>Desde então fiquei decidido em seguir carreira na área e atualmente estou no 3º semestre para ser tecnólogo em <b>Análise e Desenvolvimento de Sistemas</b> pela faculdade <b>FIAP</b>.</p>
 <h2 align="center">🎓 Conhecimentos</h2>
 
-![conhecimentos](https://github.com/bhS1lva/bhS1lva/assets/101880543/2176c986-586a-4e89-b05b-759311ff6073)
+<div align="center">
+  <img alt="Meus conhecimentos" src="https://github.com/bhS1lva/bhS1lva/assets/101880543/9bc929c8-8265-4977-b49f-7548e8130926"/>
+</div>
 
 <h2 align="center">☎ Contatos</h2>
 <div align="center">
   <h3>🗂 Portfólio: <a href="https://portfoliobrunohenrique.vercel.app/">Acesse aqui</a></h3>
-  <h3>📘 Linkedin: <a href="https://www.linkedin.com/in/bruno-henrique-902845203/">Acesse aqui</a></h3>
+  <h3>📘 Linkedin: <a href="https://www.linkedin.com/in/bhs1lva/">Acesse aqui</a></h3>
   <h3>📫 E-mail: bhfs.contato@gmail.com</h3>
 </div>
