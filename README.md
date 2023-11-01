@@ -3,7 +3,7 @@
   <img alt="hello world" width="350" height"350" src="https://media2.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif?cid=790b76116bfbcc7bbf86f566e5fbc74316bb2672b3c81491&rid=giphy.gif&ct=s">
 </div>  
 <h2 align="center">👤 Sobre mim</h2>
-<p>Tenho 19 anos. Sou formado no <b>Senai Jandira Prof. Vicente Amato</b> no curso <b>Técnico em Redes de Computadores</b>.
+<p>Tenho 20 anos. Sou formado no <b>Senai Jandira Prof. Vicente Amato</b> no curso <b>Técnico em Redes de Computadores</b>.
 Nesse curso que me foi introduzida a programação, primeiro em <b>Shell Script</b> e por fim em <b>Python</b>.</p>
 <p>Desde então fiquei decidido em seguir carreira na área e atualmente estou no 3º semestre para ser tecnólogo em <b>Análise e Desenvolvimento de Sistemas</b> pela faculdade <b>FIAP</b>.</p>
 <h2 align="center">🎓 Conhecimentos</h2>
