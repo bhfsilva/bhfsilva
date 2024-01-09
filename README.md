@@ -5,19 +5,19 @@
 <h2 align="center">👤 Sobre mim</h2>
 <p>Tenho 20 anos. Sou formado no <b>Senai Jandira Prof. Vicente Amato</b> no curso <b>Técnico em Redes de Computadores</b>.
 Nesse curso que me foi introduzida a programação, primeiro em <b>Shell Script</b> e por fim em <b>Python</b>.</p>
-<p>Desde então fiquei decidido em seguir carreira na área e atualmente estou no 3º semestre para ser tecnólogo em <b>Análise e Desenvolvimento de Sistemas</b> pela faculdade <b>FIAP</b>.</p>
+<p>Desde então fiquei decidido em seguir carreira na área e atualmente sou tecnólogo em <b>Análise e Desenvolvimento de Sistemas</b> pela faculdade <b>FIAP</b>.</p>
 <h2 align="center">🎓 Conhecimentos</h2>
 
-<table>
+<table align="center">
   <tr>
     <td valign="top">
       <div align="center">   
         <h3>Front-End Frameworks</h3>
-        
+
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
         ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-        ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
-        ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+        
+   ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
       </div>
     </td>
     <td valign="top">
@@ -25,7 +25,8 @@ Nesse curso que me foi introduzida a programação, primeiro em <b>Shell Script<
         <h3>DevOps</h3>
         ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
         ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-        ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+        
+   ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
       </div>
     </td>
     <td valign="top">
@@ -41,12 +42,10 @@ Nesse curso que me foi introduzida a programação, primeiro em <b>Shell Script<
     <td valign="top">
       <div align="center">
         <h3>Back-End</h3>
-        
-   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-        ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-        ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+        
+   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
       </div>
     </td>
     <td valign="top">
@@ -62,7 +61,8 @@ Nesse curso que me foi introduzida a programação, primeiro em <b>Shell Script<
         <h3>CSS Libraries and Frameworks</h3>
         ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
         ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-        ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+        
+   ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
       </div>
     </td>
   </tr>
