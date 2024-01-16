@@ -41,7 +41,7 @@ Nesse curso que me foi introduzida a programação, primeiro em <b>Shell Script<
   <tr>
     <td valign="top">
       <div align="center">
-        <h3>Back-End</h3>
+        <h3>Back-End and automation</h3>
 
    ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
         
