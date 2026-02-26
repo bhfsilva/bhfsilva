@@ -10,7 +10,7 @@ Desenvolvedor Back-end
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-white?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAAAXNSR0IB2cksfwAAAARnQU1BAACxjwv8YQUAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAPNJREFUKM+d0i9LBEEYx/HPLaYr/kE5myd7os0gx1YNJg2TBaNBzL4TX4csBxaLGJfTaFBZMFlMIloU1jIHq27Y8wvD8yvfmeeZmU4aikvsmp6rpCa+43kKeSepidvYwKitPZFfcV/m2Rvu2sqdNBRVzKMoHmOujTxTy7PYxCdeMMYi1nEdRxti8LttOCrzbA+3GD+eD/dxiC2EMs8O4uYXTXL14zKSpCrz7AFLOE1DsVzm2QfOmtr+QxqKeeToYQUneGo6uYkeFmJejfWrrdyJS61qK7d+qn4aCuiiSkOxFuec0E1DMUC/6ZNMTYKbf3gV8m9kxTkIUCxWPQAAAABJRU5ErkJggg==)](https://www.linkedin.com/in/bhfsilva/)
 [![Gmail](https://img.shields.io/badge/Gmail-white?logo=gmail)](mailto:bhfs.contato@gmail.com)
-[![Curriculum](https://img.shields.io/badge/Curriculum-white?logo=googledocs&logoColor=gray)](https://bhfsilva.github.io/website/public/Bruno_Henrique.pdf)
+[![Curriculum](https://img.shields.io/badge/Curriculum-white?logo=googledocs&logoColor=gray)](https://bhfsilva.github.io/website/assets/documents/Bruno_Henrique.pdf)
 
 **Techs**:
 
